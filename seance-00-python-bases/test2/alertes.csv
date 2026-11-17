@@ -1,0 +1,8 @@
+date,source,niveau,message
+2026-11-17,srv-web-01,INFO,Service disponible
+2026-11-17,poste-12,WARNING,Espace disque faible
+2026-11-17,srv-ad-01,CRITICAL,Echec authentification
+2026-11-17,srv-web-01,WARNING,Certificat bientot expire
+2026-11-17,poste-08,INFO,Analyse terminee
+2026-11-17,srv-ad-01,CRITICAL,Compte verrouille
+2026-11-17,srv-backup-01,ERROR,Echec sauvegarde
